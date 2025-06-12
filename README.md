@@ -37,7 +37,7 @@ You can test the model using custom images after training. Just ensure the image
 
 ## 📎 Dataset
 
-You can get the dataset from [Kaggle Cats vs Dogs Dataset](https://www.kaggle.com/c/dogs-vs-cats/data) and upload it to your Google Drive for use with this notebook.
+Dataset used is [Kaggle Cats vs Dogs Dataset](https://www.kaggle.com/c/dogs-vs-cats/data).
 
 ---
 
